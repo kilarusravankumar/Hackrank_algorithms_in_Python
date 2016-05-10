@@ -16,4 +16,4 @@ n=int(raw_input())
 arr=map(int,raw_input().split())
 
 findPeak(arr)
-
+#end
